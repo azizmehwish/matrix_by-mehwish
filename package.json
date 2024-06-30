@@ -1,0 +1,17 @@
+{
+  "name": "matrix_by_mehwish",
+  "version": "1.0.0",
+  "description": "matrix solutions",
+  "main": "index.js",
+  "types":"module",
+  "bin":"index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "mehwish",
+  "license": "MIT",
+  "dependencies": {
+    "@types/node": "^20.14.9"
+  }
+}
